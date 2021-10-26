@@ -10,6 +10,4 @@ Here are some ideas to get you started:
 
 
 + 🌱 I’m currently learning C, C++, data structure & algorithm.
-+ 🎒 Graduated from RUC, majoring in financial engineering.
-+ ♌️ I'm a Leo.
 + 💐 Hobbies : Reading, cooking, writing and coding.
