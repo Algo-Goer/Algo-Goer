@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algo-Goer&layout=compact&hide=tsql&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algo-Goer&layout=compact&hide=tsql&show_icons=true" />
