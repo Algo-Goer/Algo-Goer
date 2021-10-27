@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Algo-Goer&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Algo-Goer&show_icons=true&icon_color=CE1D2D&theme=radical" />
 
 + 🌱 I’m currently learning C, C++, data structure & algorithm.
 + 💐 Hobbies : Reading, cooking, writing and coding.
