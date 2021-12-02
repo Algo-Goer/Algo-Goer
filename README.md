@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 + 🌱 I’m currently learning C, C++, data structure & algorithm, Python & AI.
-+ 💐 Hobbies : Reading, cooking, writing and coding.
++ 💐 Hobbies : Reading, listening music, writing and coding.
 + 🧚‍♀️ Have 2 majors : Computer science & Finance.
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Algo-Goer&show_icons=true&icon_color=CE1D2D&theme=radical" />
