@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-+ 🌱 I’m currently learning C, C++, data structure & algorithm, Python & AI.
++ 🌱 I’m currently learning C, C++, data structure & algorithm, Python & AI (Data Science).
 + 💐 Hobbies : Reading, listening music, writing and coding.
 + 🧚‍♀️ Have 2 majors : Computer science & Finance.
 <br>
