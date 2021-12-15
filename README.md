@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 + 🧚‍♀️ 目标远大而持久
 + 🧚‍♀️ 耐心+计划执行
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Algo-Goer&show_icons=true&icon_color=CE1D2D&theme=radical" />
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algo-Goer&layout=compact&hide=tsql&show_icons=true" />
 
 <h2 align="center"> GitHub Stats </h2>
 
