@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-+ 🌱 I’m currently learning C, C++, data structure & algorithm, Python & AI (Data Science).
++ 🌱 I’m currently learning C, Python, Java, C++, data structure & algorithm, Python & AI (Data Science).
 + 💐 Hobbies : Reading, listening music, writing and coding.
++ 🧚‍ The best way to predict the future is to invent it.
 + 🧚‍♀️ 崇尚自由主义极客精神
 + 🧚‍♀️ 目标远大而持久
 + 🧚‍♀️ 耐心+计划执行
