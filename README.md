@@ -7,12 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-+ 🌱 I’m currently learning C, Python3, C++, Java, data structure & algorithm, machine learning & deep learning (data science).
-+ 💐 Hobbies : Reading, listening music, coding and writing something
++ 🌱 Compared to the fear for failure, I am more terrified of being plain and nobody. really.
 + 🧚‍ The best way to predict the future is to invent it.
-+ 🧚‍♀️ 崇尚自由主义极客精神
-+ 🧚‍♀️ 目标远大而持久
-+ 🧚‍♀️ 耐心+计划执行
 <br>
 <h2 align="center"> GitHub Stats </h2>
 
