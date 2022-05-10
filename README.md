@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-+ 🌱 Compared to the fear for failure, I am more terrified of being plain and nobody. Really.
++ 🌱 Compared to the fear for failure, I am more terrified of being plain.
 + 🧚‍ The best way to predict the future is to invent it.
 <br>
 <h2 align="center"> GitHub Stats </h2>
