@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 
 + 🌱 Compared to the fear for failure, I am more terrified of being plain.
 + 🧚‍ The best way to predict the future is to invent it.
++ 🧚‍ We can only see a short distance ahead, but we can see plenty there that needs to be done.
+
 <br>
 <h2 align="center"> GitHub Stats </h2>
 
